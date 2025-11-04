@@ -1,0 +1,102 @@
+# Phe (F)
+"TTT>TTC" "TTC>TTT"
+    
+# Leu (L)
+"CTT>CTC" "CTC>CTT" 
+"CTT>CTA" "CTA>CTT"
+"CTT>CTG" "CTG>CTT" 
+"CTA>CTC" "CTC>CTA"
+"CTA>CTG" "CTG>CTA"
+"CTC>CTG" "CTG>CTC"
+"CTG>TTG" "TTG>CTG"
+"CTA>TTA" "TTA>CTA"
+"TTA>TTG" "TTG>TTA"
+    
+# Ile (I)
+"ATT>ATC" "ATC>ATT"
+"ATT>ATA" "ATA>ATT"
+"ATA>ATC" "ATC>ATA"
+    
+# Val (V)
+"GTT>GTC" "GTC>GTT"
+"GTT>GTA" "GTA>GTT"
+"GTT>GTG" "GTG>GTT"
+"GTC>GTA" "GTA>GTC"
+"GTC>GTG" "GTG>GTC"
+"GTA>GTG" "GTG>GTA"
+    
+# Ser (S)
+"TCT>TCC" "TCC>TCT"
+"TCT>TCA" "TCA>TCT"
+"TCT>TCG" "TCG>TCT"
+"TCC>TCA" "TCA>TCC"
+"TCC>TCG" "TCG>TCC"
+"TCA>TCG" "TCG>TCA"
+"AGT>AGC" "AGC>AGT"
+    
+# Pro (P)
+"CCT>CCC" "CCC>CCT"
+"CCT>CCA" "CCA>CCT"
+"CCT>CCG" "CCG>CCT"
+"CCC>CCA" "CCA>CCC"
+"CCC>CCG" "CCG>CCC"
+"CCA>CCG" "CCG>CCA"
+    
+# Thr (T)
+"ACT>ACC" "ACC>ACT"
+"ACT>ACA" "ACA>ACT"
+"ACT>ACG" "ACG>ACT"
+"ACC>ACA" "ACA>ACC"
+"ACC>ACG" "ACG>ACC"
+"ACA>ACG" "ACG>ACA"
+    
+# Ala (A)
+"GCT>GCC" "GCC>GCT"
+"GCT>GCA" "GCA>GCT" 
+"GCT>GCG" "GCG>GCT"
+"GCC>GCA" "GCA>GCC"
+"GCC>GCG" "GCG>GCC"
+"GCA>GCG" "GCG>GCA"
+    
+# Tyr (Y)
+"TAT>TAC" "TAC>TAT"
+    
+# His (H)
+"CAT>CAC" "CAC>CAT"
+    
+# Gln (Q)
+"CAA>CAG" "CAG>CAA"
+    
+# Asn (N)
+"AAT>AAC" "AAC>AAT"
+    
+# Lys (K)
+"AAA>AAG" "AAG>AAA"
+    
+# Asp (D)
+"GAT>GAC" "GAC>GAT"
+    
+# Glu (E)
+"GAA>GAG" "GAG>GAA"
+    
+# Cys (C)
+"TGT>TGC" "TGC>TGT"
+    
+# Arg (R)
+"CGT>CGC" "CGC>CGT"
+"CGT>CGA" "CGA>CGT"
+"CGT>CGG" "CGG>CGT"
+"CGC>CGA" "CGA>CGC"
+"CGC>CGG" "CGG>CGC"
+"CGA>CGG" "CGG>CGA"
+"CGA>AGA" "AGA>CGA"
+"AGA>AGG" "AGG>AGA"
+"CGG>AGG" "AGG>CGG"
+    
+# Gly (G)
+"GGT>GGC" "GGC>GGT"
+"GGT>GGA" "GGA>GGT"
+"GGT>GGG" "GGG>GGT"
+"GGC>GGA" "GGA>GGC"
+"GGC>GGG" "GGG>GGC"
+"GGA>GGG" "GGG>GGA"

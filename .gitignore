@@ -1,7 +1,6 @@
 src/__pycache__/
 result/
 result/*
-data/dgrp2/vcfs/*
-data/dpgp3/vcfs/*
-data/fasta/*
-
+data/dpgp3/
+data/dgrp2/
+data/fasta/

@@ -843,7 +843,7 @@ if __name__ == '__main__':
             syn_dir = op.join(outdir, "synonymous")
             os.makedirs(syn_dir, exist_ok=True)
             
-            SYN_SI_pair_results_filename = op.join(syn_dir, f"{args.population}_SI_and_SYN_counts_nc{args.nc}{args.comment}.txt")
+            SYN_SI_pair_results_filename = op.join(syn_dir, f"{args.population}_SI_and_SYN_allele_counts_nc{args.nc}{args.comment}.txt")
             SYN_SI_SFSs_filename = op.join(syn_dir, f"{args.population}_SI_and_SYN_nc{args.nc}{args.comment}_SFSs.txt")
         
         if op.exists(SYN_SI_pair_results_filename):
